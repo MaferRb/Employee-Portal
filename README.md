@@ -29,12 +29,6 @@ This video presents the complete functionality of the system, including employee
 - Version Control: Git & GitHub  
 - Development Environment: Visual Studio Code  
 
-### Project Management and Planning
-- Notion: Documentation and project organization  
-- Trello: Task management and workflow tracking  
-- ProjectLibre: Project scheduling and planning  
-- Lucidchart: System design and diagrams  
-
 ### Testing
 - Selenium: Automated testing  
 
@@ -44,7 +38,7 @@ This video presents the complete functionality of the system, including employee
 
 The project presentation (PPT/PDF) is available at the following link:
 
-[View Project Presentation](https://drive.google.com/file/d/1gkdf-u8__TQDDEhS7gS-CBzAB7YoknRr/view)
+[View Project Presentation]([https://drive.google.com/file/d/1gkdf-u8__TQDDEhS7gS-CBzAB7YoknRr/view](https://docs.google.com/presentation/d/1cqQ7D4tmdxWA2kjjiKRmQK3iZQDohXqT/edit?usp=sharing&ouid=103813443076117236926&rtpof=true&sd=true)
 
 ---
 
