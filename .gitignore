@@ -22,7 +22,3 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
-/ui-tests/.venv
-/ui-tests/__pycache__
-/ui-tests/.pytest_cache
-/database/database.sqlite
