@@ -1,0 +1,27 @@
+﻿============================= test session starts =============================
+platform win32 -- Python 3.14.3, pytest-9.1.1, pluggy-1.6.0 -- C:\Users\maria\Downloads\Employee-Portal-main\Employee-Portal-main\ui-tests\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\maria\Downloads\Employee-Portal-main\Employee-Portal-main\ui-tests
+collecting ... collected 19 items
+
+tests/test_tc_01_05_auth.py::test_tc_01_valid_user_login PASSED          [  5%]
+tests/test_tc_01_05_auth.py::test_tc_02_invalid_login_attempt PASSED     [ 10%]
+tests/test_tc_01_05_auth.py::test_tc_03_registration_page_loads PASSED   [ 15%]
+tests/test_tc_01_05_auth.py::test_tc_04_forgot_password_page_loads PASSED [ 21%]
+tests/test_tc_01_05_auth.py::test_tc_05_verify_email_requires_auth PASSED [ 26%]
+tests/test_tc_06_07_dashboard.py::test_tc_06_dashboard_redirects_guest PASSED [ 31%]
+tests/test_tc_06_07_dashboard.py::test_tc_07_dashboard_access_authenticated PASSED [ 36%]
+tests/test_tc_08_13_workflows_smoke.py::test_tc_08_leave_request_page_open PASSED [ 42%]
+tests/test_tc_08_13_workflows_smoke.py::test_tc_09_leave_manager_flow_page_open PASSED [ 47%]
+tests/test_tc_08_13_workflows_smoke.py::test_tc_10_vehicle_request_page_open PASSED [ 52%]
+tests/test_tc_08_13_workflows_smoke.py::test_tc_12_recommendation_request_page_open PASSED [ 57%]
+tests/test_tc_08_13_workflows_smoke.py::test_tc_13_recommendation_status_page_access PASSED [ 63%]
+tests/test_tc_14_18_equipment.py::test_tc_14_equipment_page_open PASSED  [ 68%]
+tests/test_tc_14_18_equipment.py::test_tc_15_equipment_create_happy_path SKIPPED [ 73%]
+tests/test_tc_14_18_equipment.py::test_tc_16_manager_can_open_equipment_details PASSED [ 78%]
+tests/test_tc_14_18_equipment.py::test_tc_17_admin_can_open_product_requests PASSED [ 84%]
+tests/test_tc_14_18_equipment.py::test_tc_18_unauthorized_admin_page_blocked_for_employee PASSED [ 89%]
+tests/test_tc_19_20_validation_ui.py::test_tc_19_login_validation_required_fields PASSED [ 94%]
+tests/test_tc_19_20_validation_ui.py::test_tc_20_core_pages_render_without_crash PASSED [100%]
+
+================== 18 passed, 1 skipped in 160.42s (0:02:40) ==================
