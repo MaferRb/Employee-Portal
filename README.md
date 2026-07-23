@@ -22,14 +22,13 @@ The Employee Portal is a Laravel-based HR self-service web application. It centr
 
 ### Backend Test Results (Pest)
 
-![Backend test execution](tests/evidence/screenshots/backend-test-execution.png)
+![Backend test execution](ui-tests/evidence/screenshots/backend-test-execution.png)
 
 This is the output of `php artisan test`, showing the backend feature test suite.
 
 ### UI Test Results (Selenium)
 
-![Selenium UI test execution](tests/evidence/screenshots/selenium-test-execution.png)
-
+![Selenium UI test execution](ui-tests/evidence/screenshots/selenium-test-execution.png)
 This is the output of `pytest -v`, showing the automated UI test suite running against the live application.
 
 ## Updated Test Results
